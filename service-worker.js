@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.00b25ef43356666c4171c5d32e11b23a.js"
+  "/precache-manifest.023b818901c4b0738aeae2d232c57a9b.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "mapsmeros"});
